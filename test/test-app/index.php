@@ -3,7 +3,7 @@
 	<title>Test PHP passed</title>
 </head>
 <body>
-<h1>Hello World</h1>
+<h1>Hello LAB</h1>
 <p>
 <?php
 	phpinfo();
